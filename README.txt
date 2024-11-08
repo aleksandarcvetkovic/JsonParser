@@ -1,0 +1,1 @@
+The application is built as a Visual Studio project, and all tests are included in the main function.
